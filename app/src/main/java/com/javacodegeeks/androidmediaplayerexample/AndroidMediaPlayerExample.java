@@ -38,7 +38,7 @@ public class AndroidMediaPlayerExample extends Activity {
 		finalTime = mediaPlayer.getDuration();
 		duration = (TextView) findViewById(R.id.songDuration);
 		seekbar = (SeekBar) findViewById(R.id.seekBar);
-		songName.setText("http://104.236.67.117:3005/uploads/1504595567434.mp3");
+		songName.setText("Song1");
 		
 		seekbar.setMax((int) finalTime);
 		seekbar.setClickable(false);
