@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidMediaPlayerExample1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidMediaPlayerExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_83e5e18d896a84a514feffb47cea272b3c0a72d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidMediaPlayerExample1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de471ce23bcfb2ab8b3d932f05fd803f449ea708">
+        <dex dex="D:\AndroidMediaPlayerExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_70320813161f13b339b6b5869f7451bd27d2a20e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidMediaPlayerExample1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_4750243480f479f7504a69c3f78a2541d381ce4b\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,4 @@
+#Wed Sep 06 16:14:05 IST 2017
+base.0=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4750243480f479f7504a69c3f78a2541d381ce4b
+renamed.0=classes.dex
+file.0=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_4750243480f479f7504a69c3f78a2541d381ce4b\\classes.dex

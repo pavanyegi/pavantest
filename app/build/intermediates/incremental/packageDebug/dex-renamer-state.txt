@@ -1,0 +1,7 @@
+#Wed Sep 06 16:14:06 IST 2017
+base.0=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_70320813161f13b339b6b5869f7451bd27d2a20e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83e5e18d896a84a514feffb47cea272b3c0a72d5\\classes.dex
+base.1=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83e5e18d896a84a514feffb47cea272b3c0a72d5
+file.0=D\:\\AndroidMediaPlayerExample1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_70320813161f13b339b6b5869f7451bd27d2a20e\\classes.dex
